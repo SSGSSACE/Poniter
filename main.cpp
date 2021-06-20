@@ -7,5 +7,7 @@ int main()
     int *p=&x;
     std::cout << "Gia tri cua x la: " << x << std::endl;
     std::cout << "Dia chi cua bien x la: " << &x << std::endl;
+        std::cout << "Gia tri cua p la: " << p << std::endl;
+    std::cout << "Dia chi cua bien x la: " << &x << std::endl;
     return 0;
 }
