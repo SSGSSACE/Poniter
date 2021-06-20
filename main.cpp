@@ -10,7 +10,8 @@ int main()
     std::cout << "Gia tri cua p la: " << p << std::endl;
     std::cout << "Dia chi cua bien p la: " << *p << std::endl;
     *p=20;
-        std::cout << "Gia tri cua x la: " << x << std::endl;
+    std::cout << "-------------SAU DO--------------" << std::endl;
+    std::cout << "Gia tri cua x la: " << x << std::endl;
     std::cout << "Dia chi cua bien x la: " << &x << std::endl;
     std::cout << "Gia tri cua p la: " << p << std::endl;
     std::cout << "Dia chi cua bien p la: " << *p << std::endl;
