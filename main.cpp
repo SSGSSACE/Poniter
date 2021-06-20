@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int x = 10;
-    int *p = &x;
+    int *p ;
     std::cout << "Gia tri cua x la: " << x << std::endl;
     std::cout << "Dia chi cua bien x la: " << &x << std::endl;
     std::cout << "Gia tri cua p la: " << p << std::endl;
