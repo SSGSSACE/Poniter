@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "cwd": "e:\\C,C++\\Poniter",
       "environment": [],
-      "program": "E:/C,C++/Poniter/main.exe",
+      "program": "e:\\C,C++\\Poniter\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:\\Program Files (x86)\\Dev-Cpp\\MinGW64\\bin\\gdb.exe",
