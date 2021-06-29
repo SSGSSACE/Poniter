@@ -32,7 +32,7 @@
       "program": "e:\\C,C++\\Poniter\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:\\Program Files (x86)\\Dev-Cpp\\MinGW64\\bin\\gdb.exe",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
       "externalConsole": false
     }
   ]
